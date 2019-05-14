@@ -16,10 +16,10 @@
  */
 
 window.camWelcomeConf = {
-  // app: {
-  //   name: 'Todos',
-  //   vendor: 'Company'
-  // },
+  app: {
+    name: 'Welcome',
+    vendor: 'Freightgate Inc.'
+  },
   //
   // configure the date format
   // "dateFormat": {

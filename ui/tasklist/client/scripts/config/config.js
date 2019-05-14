@@ -17,10 +17,10 @@
 
 window.camTasklistConf = {
   // change the app name and vendor
-  // app: {
-  //   name: 'Todos',
-  //   vendor: 'Company'
-  // },
+  app: {
+    name: 'TaskList',
+    vendor: 'Freightgate Inc.'
+  },
   //
   // configure the date format
   // "dateFormat": {
